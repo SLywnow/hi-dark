@@ -1,5 +1,5 @@
 # hi-dark
-A little test dark theme, based on https://github.com/samuelmeuli/refind-theme-dark
+A little test dark theme, based on https://github.com/dheishman/refind-dreary
 
 Images:
 ![Windows](https://github.com/SLywnow/hi-dark/blob/master/screenshot1.jpg?raw=true)
